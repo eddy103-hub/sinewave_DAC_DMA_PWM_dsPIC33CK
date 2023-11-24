@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/debug/Sinewave_DAC_DMA_PWM_dspic33ck.X.debug.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>24576</length>
+      <used>384</used>
+      <free>24192</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>269184</length>
+      <used>4641</used>
+      <free>264543</free>
+    </memory>
+  </executable>
+</project>
